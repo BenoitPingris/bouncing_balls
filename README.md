@@ -1,4 +1,4 @@
-*** Bouncing Balls
+### Bouncing Balls
 
 Simple program made with ```arcade``` library (>=python3.6)
 
